@@ -1,3 +1,5 @@
+<html>
+<body>
 class Factorial{  
  public static void main(String args[]){  
   int i,fact=1;  
@@ -8,3 +10,5 @@ class Factorial{
   System.out.println("Factorial of "+number+" is: "+fact);    
  }  
 }
+</body>
+</html>
